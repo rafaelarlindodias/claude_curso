@@ -1,0 +1,20 @@
+Aprenda sobre tokenização de modelos de linguagem:
+
+https://platform.openai.com/tokenizer
+
+Tokens:
+- Cursto
+- velocidade
+- Limite
+- Qualidade
+
+Contexo:
+- inicio e fim mais acertivo, meio perda de precisão
+- zonas de contexto: verde, amarelo, laranha, vermelho
+
+
+Execução:
+- terminal, comando claude
+- IDE
+- Github
+
